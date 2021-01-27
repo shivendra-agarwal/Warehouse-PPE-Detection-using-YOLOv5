@@ -13,5 +13,6 @@ For other classes, images are collected from mulitple sources (google, pinterest
 ![Detection](https://github.com/shivendra-agarwal/Warehouse-PPE-Detection-using-YOLOv5/blob/main/ppe-detection-4.png?raw=true)
 ![Precison, Rcall, mAP, Loss](https://github.com/shivendra-agarwal/Warehouse-PPE-Detection-using-YOLOv5/blob/main/ppe-detection-numbers.png?raw=true)
 
+Image augmentation techniques (grayscale, crop, rotation, flip, saturation, noise)are applied using [roboflow](https://roboflow.com/). 
 
 Thank you
